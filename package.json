@@ -59,7 +59,7 @@
     "@clack/prompts": "^0.5.0",
     "@octokit/core": "^4.2.0",
     "cac": "^6.7.14",
-    "create-vite": "^4.1.0",
+    "create-vite": "4.1.0",
     "fs-extra": "^11.1.0",
     "kolorist": "^1.7.0",
     "ofetch": "^1.0.1",
