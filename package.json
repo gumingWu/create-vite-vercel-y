@@ -1,7 +1,7 @@
 {
   "name": "create-vite-vercel-y",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "yarn@1.22.19",
   "description": "",
   "author": "gumingWu",
