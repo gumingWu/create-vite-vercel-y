@@ -11,7 +11,7 @@ export function run() {
     .action(() => {
       intro(lightCyan('create-vite-vercel'))
 
-      note('please follow the cli document to use\n中文文档:\n英文文档:', 'tips')
+      note('please follow the cli document to use\n中文文档: https://juejin.cn/post/7213576339328335929 \n英文文档: https://github.com/gumingWu/create-vite-vercel-y', 'tips')
 
       outro(lightGreen('finish'))
     })
